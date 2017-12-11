@@ -2184,13 +2184,12 @@ body.search-no-results .page-header {
 
 .comments-title,
 .comment-reply-title {
-	border-top: 4px solid #1a1a1a;
 	font-family: Montserrat, "Helvetica Neue", sans-serif;
 	font-size: 23px;
 	font-size: 1.4375rem;
 	font-weight: 700;
 	line-height: 1.3125;
-	padding-top: 1.217391304em;
+	color: #24b2ff;
 }
 
 .comments-title {
@@ -3541,6 +3540,9 @@ p > video {
 	.content-bottom-widgets .widget-area,
 	.widecolumn {
 		margin-bottom: 7.0em;
+                             background-color: white;
+                             border-radius: 10px;
+                             padding: 20px;
 	}
 
 	body:not(.search-results) .entry-summary {
