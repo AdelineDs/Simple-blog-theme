@@ -2993,6 +2993,8 @@ p > video {
 	.main-navigation .primary-menu,
 	.main-navigation .primary-menu > li {
 		border: 0;
+                            background-color: #24B2FF;
+                            border-radius: 10px;
 	}
 
 	.main-navigation .primary-menu > li {
