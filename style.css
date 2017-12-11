@@ -3434,6 +3434,9 @@ p > video {
 
 	.site-main > article {
 		margin-bottom: 7.0em;
+                            background-color: white;
+                            border-radius: 10px;
+                            padding: 30px;
 	}
 
 	.entry-title {
