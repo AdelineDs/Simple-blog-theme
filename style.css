@@ -1701,12 +1701,13 @@ blockquote:after,
 }
 
 .entry-title a {
-	color: #1a1a1a;
+	color: #24B2FF;
+               text-decoration: underline;
 }
 
 .entry-title a:hover,
 .entry-title a:focus {
-	color: #007acc;
+	text-decoration: none;
 }
 
 .post-thumbnail {
