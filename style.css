@@ -826,6 +826,7 @@ a:active {
 .main-navigation .current-menu-item > a,
 .main-navigation .current-menu-ancestor > a {
 	font-weight: 700;
+              color : white;
 }
 
 .main-navigation ul ul {
@@ -3002,6 +3003,7 @@ p > video {
 		outline-offset: -8px;
 		padding: 0.65625em 0.875em;
 		white-space: nowrap;
+                            color: white;
 	}
 
 	.main-navigation li:hover > a,
