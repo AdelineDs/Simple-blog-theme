@@ -1933,6 +1933,7 @@ body:not(.search-results) .entry-summary > :last-child,
 
 .more-link {
 	white-space: nowrap;
+               text-decoration: none;
 }
 
 .author-info {
@@ -1992,6 +1993,7 @@ body:not(.search-results) .entry-summary > :last-child,
 
 .entry-footer a {
 	color: #686868;
+              text-decoration: none;
 }
 
 .entry-footer a:hover,
@@ -3444,7 +3446,7 @@ p > video {
 	}
 
 	.site-main > article {
-                            margin-bottom: 7.0em;
+                            margin-bottom: 3.0em;
                             background-color: white;
                             border-radius: 10px;
                             padding: 30px;
