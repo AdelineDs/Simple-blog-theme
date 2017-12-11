@@ -2783,7 +2783,7 @@ p > video {
 	}
 
 	.site-description {
-		display: block;
+		display: none;
 	}
 
 	.menu-toggle {
