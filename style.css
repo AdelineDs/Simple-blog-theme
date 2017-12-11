@@ -2205,7 +2205,8 @@ body.search-no-results .page-header {
 .comment-list .pingback,
 .comment-list .trackback {
 	border-top: 1px solid #d1d1d1;
-	padding: 1.75em 0;
+              border-bottom: 1px solid #d1d1d1;
+	padding: 1.5em 0;
 }
 
 .comment-list .children {
@@ -3532,7 +3533,7 @@ p > video {
 
 	.comment-list + .comment-respond,
 	.comment-navigation + .comment-respond {
-		padding-top: 5.25em;
+		padding-top: 1.5em;
 	}
 
 	.comments-area,
@@ -3542,7 +3543,7 @@ p > video {
 		margin-bottom: 7.0em;
                              background-color: white;
                              border-radius: 10px;
-                             padding: 20px;
+                             padding: 1.5em;
 	}
 
 	body:not(.search-results) .entry-summary {
