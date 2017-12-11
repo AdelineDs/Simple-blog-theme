@@ -3434,7 +3434,9 @@ p > video {
 	}
 
 	.widget {
-		margin-bottom: 4.307692308em;
+		margin-bottom: 3em;
+                             background-color: white;
+                             border-radius: 10px;
 	}
 
 	.site-main > article {
