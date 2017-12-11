@@ -821,7 +821,7 @@ a:active {
 
 .main-navigation a:hover,
 .main-navigation a:focus {
-	color: #007acc;
+	text-decoration: underline;
 }
 
 .main-navigation .current-menu-item > a,
@@ -3006,11 +3006,12 @@ p > video {
 		padding: 0.65625em 0.875em;
 		white-space: nowrap;
                             color: white;
+                            text-decoration: none
 	}
 
 	.main-navigation li:hover > a,
 	.main-navigation li.focus > a {
-		color: #007acc;
+		
 	}
 
 	.main-navigation ul ul {
