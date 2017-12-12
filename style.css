@@ -1093,7 +1093,7 @@ a:active {
 }
 
 .pagination {
-	border-top: 4px solid #1a1a1a;
+	border-top: 4px solid #24b2ff;
 	font-family: Montserrat, "Helvetica Neue", sans-serif;
 	font-size: 19px;
 	font-size: 1.1875rem;
@@ -1123,7 +1123,7 @@ a:active {
 
 .pagination a:hover,
 .pagination a:focus {
-	color: #1a1a1a;
+	color: #24b2ff;
 }
 
 .pagination .nav-links {
@@ -1169,11 +1169,12 @@ a:active {
 .pagination .current {
 	display: inline-block;
 	font-weight: 700;
+              color: #24b2ff;
 }
 
 .pagination .prev,
 .pagination .next {
-	background-color: #1a1a1a;
+	background-color: #24b2ff;
 	color: #fff;
 	display: inline-block;
 	height: 52px;
@@ -1199,7 +1200,7 @@ a:active {
 .pagination .prev:focus,
 .pagination .next:hover,
 .pagination .next:focus {
-	background-color: #007acc;
+	background-color: #24b2ff;
 	color: #fff;
 }
 
