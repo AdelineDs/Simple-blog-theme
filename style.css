@@ -727,14 +727,14 @@ input[type="search"].search-field {
 
 a {
 	color: #24b2ff;
-	text-decoration: underline;
+	text-decoration: none;
 }
 
 a:hover,
 a:focus,
 a:active {
 	color: #24b2ff;
-               text-decoration: none;
+               text-decoration: underline;
 }
 
 a:focus {
@@ -1046,15 +1046,15 @@ a:active {
 }
 
 .post-navigation {
-	border-top: 4px solid #1a1a1a;
-	border-bottom: 4px solid #1a1a1a;
+	border-top: 4px solid #24b2ff;
+	border-bottom: 4px solid #24b2ff;
 	clear: both;
 	font-family: Montserrat, "Helvetica Neue", sans-serif;
 	margin: 0 7.6923% 3.5em;
 }
 
 .post-navigation a {
-	color: #1a1a1a;
+	color: #24b2ff;
 	display: block;
 	padding: 1.75em 0;
 }
@@ -1085,11 +1085,11 @@ a:active {
 
 .post-navigation a:hover .post-title,
 .post-navigation a:focus .post-title {
-	color: #007acc;
+	color: #24b2ff;
 }
 
 .post-navigation div + div {
-	border-top: 4px solid #1a1a1a;
+	border-top: 2px solid #24b2ff;
 }
 
 .pagination {
